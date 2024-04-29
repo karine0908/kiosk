@@ -11,6 +11,8 @@ public class Main {
 //        item.Drink();
 //        Cart cart = new Cart();
 //        Order order = new Order();
+//        Menu menu = new Menu();
+//        menu.select(menu.name, menu.explain);
 
         // 메뉴 선택
         // 카트
