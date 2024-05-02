@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class Item {
 // 상품 클래스는 이름, 가격, 설명 필드를 가지는 클래스로 만들어주세요,
@@ -9,7 +10,6 @@ public class Item {
     public String name, explain;
     public double price;
     public int id;
-
 
     public Item(String name, double price, String explain) {
         this.name = name;
@@ -92,6 +92,8 @@ public class Item {
         drinkList.add(coffee);
         drinkList.add(orangeJuice);
     }
+
+
 
 //        for (int i = 0; i < drinkList.size(); i++) {
 //            System.out.printf(name + " | W | " + price + " | " + explain);

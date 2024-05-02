@@ -7,8 +7,8 @@ public class Main {
        // menu.MenuList(menu.name, menu.explain);
 //        menu.selectMenu(menu.name, menu.explain);
         //Item item = new Item();
-        Scanner sc = new Scanner(System.in);
-
+//        Scanner sc = new Scanner(System.in);
+        
 
 //       item.Burger(item.name, item.price, item.explain);
 //        item.Burger();
